@@ -1,5 +1,0 @@
-This is a crude sketch of an implementation of an idea 
-(the translation function and the parsing functions are incomplete).
-Will be completely developed and explained in my paper.
-To run: python -i test5.py
-To parse in English >>> P("I love her")
