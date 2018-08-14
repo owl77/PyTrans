@@ -1,0 +1,7 @@
+python -i transtest.py
+
+>>> Dic.trans("I love her")
+['eu amo -a']
+>>> Dic.trans("I love the cats")
+['eu amo os gatos']
+>>> 
